@@ -14,6 +14,6 @@ It will ask you to plug in a wifi adapter and press enter
 > [!NOTE]
 > the script will use ***wlan1mon*** when set in monitor mode, if yours is different, change the name in ***lines 47 & 60***
 
-It will automatically scan for WPS devices, once ready hit ***CTRL+C*** enter the ***BSSID and Channel #***
+It will automatically scan for WPS devices, once ready hit ***CTRL+C*** and enter the ***BSSID and Channel #***
 
 Then let it do it's work :)
